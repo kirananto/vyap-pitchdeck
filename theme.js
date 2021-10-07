@@ -14,7 +14,7 @@ export default {
     '@media screen and (min-width:64em)': {
       fontSize: '22px'
     }
-  }
+  },
   // Customize your presentation theme here.
   //
   // Read the docs for more info:
